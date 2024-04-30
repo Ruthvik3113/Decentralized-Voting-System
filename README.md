@@ -1,4 +1,4 @@
-**Decentralized Voting System**
+# **Decentralized Voting System**
 
 Welcome to the Decentralized Voting System GitHub repository! This project aims to revolutionize the voting process by leveraging blockchain technology to ensure transparency, security, and tamper-proofness in elections. 
 
